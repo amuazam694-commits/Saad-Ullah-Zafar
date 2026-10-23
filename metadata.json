@@ -1,0 +1,6 @@
+{
+  "name": "PhytoSense - Modern IoT Plant Care Dashboard",
+  "description": "High-precision botanical IoT telemetry suite featuring soil moisture, DHT11 temp/humidity, and LDR light monitoring with automated data logging, custom alert limits, and interactive historical graphs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
